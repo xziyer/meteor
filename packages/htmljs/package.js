@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Easy macros for generating DOM elements in Javascript"
 });
 

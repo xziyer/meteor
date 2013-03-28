@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Library for manipulating documents based on data."
 });
 

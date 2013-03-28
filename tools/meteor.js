@@ -71,6 +71,7 @@ Fiber(function () {
 
     context.releaseManifest =
       warehouse.releaseManifestByVersion(context.releaseVersion);
+    // THIS IS A REVERTABLE CHANGE
     context.packageSearchOptions = {
       appDir: context.appDir,
       releaseManifest: context.releaseManifest

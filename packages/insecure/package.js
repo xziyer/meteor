@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Allow all database writes by default"
 });
 

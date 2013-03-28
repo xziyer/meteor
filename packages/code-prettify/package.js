@@ -6,7 +6,7 @@
 
 var path = Npm.require('path');
 
-Package.describe({
+ Package.describe({
   summary: "Syntax highlighting of code, from Google"
 });
 

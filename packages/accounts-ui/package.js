@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Simple templates to add login widgets to an app."
 });
 

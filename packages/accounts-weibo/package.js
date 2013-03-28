@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Login service for Sina Weibo accounts"
 });
 

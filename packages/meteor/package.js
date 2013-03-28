@@ -1,6 +1,6 @@
 // All other packages automatically depend on this one
 
-Package.describe({
+ Package.describe({
   summary: "Core Meteor environment",
   internal: true
 });

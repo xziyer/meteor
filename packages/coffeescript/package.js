@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Javascript dialect with fewer braces and semicolons"
 });
 

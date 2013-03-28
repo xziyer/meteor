@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Full-featured JavaScript parser",
   internal: true
 });

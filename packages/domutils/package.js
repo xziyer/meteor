@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Utility functions for DOM manipulation",
   internal: true
 });

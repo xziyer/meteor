@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Send email messages"
 });
 

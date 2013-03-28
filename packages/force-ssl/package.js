@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Require this application to use secure transport (HTTPS)"
 });
 

@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Meteor's client-side datastore: a port of MongoDB to Javascript",
   internal: true
 });

@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "A minimalist client-side MVC framework"
 });
 

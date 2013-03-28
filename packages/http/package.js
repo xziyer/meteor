@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Make HTTP calls to remote servers"
 });
 

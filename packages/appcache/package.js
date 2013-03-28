@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "enable the application cache in the browser"
 });
 

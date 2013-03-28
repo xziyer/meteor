@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "pushState module from the jQuery project"
 });
 

@@ -3,7 +3,7 @@
 // internal package that should get shipped down to the client iff you
 // have a precompiled handlebars template in your project.
 
-Package.describe({
+ Package.describe({
   summary: "Simple semantic templating language"
 });
 

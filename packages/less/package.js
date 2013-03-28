@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "The dynamic stylesheet language."
 });
 

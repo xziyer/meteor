@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Meteor's latency-compensated distributed data framework",
   internal: true
 });

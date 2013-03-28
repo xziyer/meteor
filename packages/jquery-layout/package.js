@@ -1,7 +1,7 @@
 // XXX should probably nudge people toward the CSS Flexible Box Model
 // flexie, rather than this
 
-Package.describe({
+ Package.describe({
   summary: "Easily create arbitrary multicolumn layouts"
 });
 

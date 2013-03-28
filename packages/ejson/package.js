@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Extended and Extensable JSON library",
   internal: false
 });

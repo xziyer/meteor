@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Simulates the localStorage API on IE 6,7 using userData",
 });
 

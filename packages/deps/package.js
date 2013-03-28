@@ -1,6 +1,6 @@
 // XXX rename package?
 
-Package.describe({
+ Package.describe({
   summary: "Dependency mananger to allow reactive callbacks",
   internal: true
 });

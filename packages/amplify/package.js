@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "API for Persistant Storage, PubSub and Request"
 });
 

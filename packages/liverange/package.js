@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Mark, track, and update an arbitrary region in the DOM",
   internal: true
 });

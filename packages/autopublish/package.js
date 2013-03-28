@@ -1,4 +1,4 @@
-Package.describe({
+ Package.describe({
   summary: "Automatically publish the entire database to all clients"
 });
 
